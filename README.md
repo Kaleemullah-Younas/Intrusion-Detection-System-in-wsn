@@ -158,4 +158,4 @@ Contributions, issues, and feature requests are welcome! Please follow these ste
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
