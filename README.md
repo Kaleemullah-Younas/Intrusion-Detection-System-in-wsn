@@ -94,7 +94,7 @@ Wireless Sensor Networks (WSNs) are vulnerable to a variety of network‐level a
 
 2. **Generate the Comparison Graph:**
 
-   * Within the notebook, execute the cell under “Model Comparison & ROC Curve” to regenerate `images/model_comparison.png`.
+   * Within the notebook, execute the cell under “Model Comparison & ROC Curve” to regenerate `plots/model_comparison_metrics_percent.png`.
 
 3. **Evaluate on Test Set:**
 
